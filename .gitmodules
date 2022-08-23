@@ -13,3 +13,8 @@
 	url = https://github.com/shokoohi/dmchmm
 	shallow = true
 	registered = true
+[submodule "fmrs"]
+	path = fmrs
+	url = https://github.com/shokoohi/fmrs
+	shallow = true
+	registered = true
