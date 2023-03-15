@@ -1,11 +1,11 @@
 [
   {
+    "package": "fmrs"
+  },
+  {
     "package": "DMCFB"
   },
   {
     "package": "DMCHMM"
-  },
-  {
-    "package": "fmrs"
   }
 ]

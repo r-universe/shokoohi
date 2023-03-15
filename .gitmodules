@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fmrs"]
+	path = fmrs
+	url = https://github.com/shokoohi/fmrs
+	shallow = true
+	registered = true
 [submodule "DMCFB"]
 	path = DMCFB
 	url = https://github.com/shokoohi/dmcfb
@@ -11,10 +16,5 @@
 [submodule "DMCHMM"]
 	path = DMCHMM
 	url = https://github.com/shokoohi/dmchmm
-	shallow = true
-	registered = true
-[submodule "fmrs"]
-	path = fmrs
-	url = https://github.com/shokoohi/fmrs
 	shallow = true
 	registered = true
